@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gerardo M., aka "Berger"
+- 👀 I’m interested in chess computers, and electronics projects in general.
+- 🌱 I’m currently learning C programming.
