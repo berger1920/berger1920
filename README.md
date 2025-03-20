@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Gerardo M., aka "Berger", aka "Moto_68000".
+- 👋 Hi, I’m Gerardo M., aka "Berger", aka "Moto68000".
 - 👀 I’m interested in chess computers, 8-bit computers, and electronics projects in general.
 - 🌱 I develop some small projects with ARM microcontrollers programmed in C language.
